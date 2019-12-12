@@ -1,7 +1,7 @@
-## flyingalex
-
 [《大话设计模式》](https://book.douban.com/subject/2334288/)php版本
 用自己现在用的语言重新写一遍，文中的代码均可以在终端内执行
+
+网页版本gitbook: https://hulin.gitbook.io/design-patterns-by-php/
 
 相关资源：
 
@@ -26,7 +26,7 @@
 
 - [第八章 雷锋依然在人间 －－－ 工厂方法模式](https://github.com/flyingalex/design-patterns-by-php/blob/master/files/chapter8.md)
 
-- [第九章 简历复印 －－－ 原型模式](https://github.com/flyingalex/design-patterns-by-php/blob/master/files/chapter9md)
+- [第九章 简历复印 －－－ 原型模式](https://github.com/flyingalex/design-patterns-by-php/blob/master/files/chapter9.md)
 
 - [第十章 考题抄错会做也白搭 －－－ 模版方法模式](https://github.com/flyingalex/design-patterns-by-php/blob/master/files/chapter10.md)
 
@@ -69,3 +69,6 @@
 - [第二十九章 OOTV杯超级模式大赛 －－－ 模式总结](https://github.com/flyingalex/design-patterns-by-php/blob/master/files/chapter29.md)
 
 
+## License
+
+The MIT License.
